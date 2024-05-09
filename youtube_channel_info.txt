@@ -2,8 +2,6 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Ekattor TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
-https://www.youtube.com/channel/UC0ThmWmb7WQATrrDMLQph7Q/live
 
 凤凰卫视资讯台 | 亚洲 | https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/440px-Phoenix_InfoNews.svg.png |
 https://youtu.be/HFib76ySpbU
@@ -13,6 +11,9 @@ https://youtu.be/m_dhMSvUCIc
 
 东森新闻 | 亚洲 | https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EBC_News_logo_20150706.jpg/600px-EBC_News_logo_20150706.jpg |
 https://youtu.be/LuQ4S-i5zoE
+
+東森財經新聞 | 亚洲 | |
+https://youtu.be/WHEPzbFA3hw
 
 寰宇新聞 台灣台 | 亚洲 | https://upload.wikimedia.org/wikipedia/zh/6/6c/Global_News_TW_logo.png |
 https://youtu.be/w87VGpgd90U
@@ -38,5 +39,51 @@ https://youtu.be/oIgbl7t0S_w
 中視新聞 | 亚洲 | https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/400px-China_TV_logo_since_19971030.svg.png |
 https://youtu.be/TCnaIE_SAtM
 
+公視台語新聞 | 亚洲 | |
+https://youtu.be/quwqlazU-c8
 
+民視新聞 | 亚洲 | |
+https://youtu.be/ylYJSBUgaMA
+
+台視新聞台 | 亚洲 | |
+https://youtu.be/xL0ch83RAK8
+
+華視新聞 | 亚洲 | |
+https://youtu.be/wM0g8EoUZ_E
+
+鏡新聞 | 亚洲 | |
+https://youtu.be/5n0y6b0Q25o
+
+KBS KOREA On-Air | 亚洲 | |
+https://youtu.be/OxQQsIvJTTU
+
+YonhapnewsTV | 亚洲 | |
+https://youtu.be/6QZ_qc75ihU
+
+YTN | 亚洲 | |
+https://youtu.be/FJfwehhzIhw
+
+KBS News | 亚洲 | |
+https://youtu.be/889LgPv1ULU
+
+Arirang TV | 亚洲 | |
+https://youtu.be/CJVBX7KI5nU
+
+KBS WORLD TV K-Pop | 亚洲 | |
+https://youtu.be/VOPZDFMHdE0
+
+THE K-POP | 亚洲 | |
+https://youtu.be/JVocS7Yftw8
+
+K-POP Girl Group | 亚洲 | |
+https://youtu.be/G3NX_hzCuFM
+
+SBS | 亚洲 | |
+https://youtu.be/2-sSgKEvm6A
+
+SBS Running Man | 亚洲 | |
+https://youtu.be/ON6XV5YCCiI
+
+KBS Entertain | 亚洲 | |
+https://youtu.be/UQfrKGzLoxs
 
